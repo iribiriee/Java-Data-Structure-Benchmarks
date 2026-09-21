@@ -1,0 +1,21 @@
+For single search for N=10000 and dense version
+Found (1018, 558) Torgimok1
+Found (992, 518) Neknimok3
+Found (594, 646) Myrrathok3
+Found (581, 836) Grimelur
+Found (718, 827) Gorrezrak1
+Found (633, 930) Skelrarax3
+
+
+For findNearPoints for (900, 688) for N=10000 and dense version
+(891, 679) Lazginax2
+(892, 683) Balunir3
+(890, 687) Zulregrim2
+(890, 689) Morkamar2
+(893, 692) Skellonir3
+(893, 698) Morzunir3
+(897, 678) Thrazuthul
+(896, 681) Narulven
+(899, 681) Gorzuven2
+(896, 685) Oggzukesh2
+(909, 695) Fenzunul
