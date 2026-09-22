@@ -250,4 +250,5 @@ docs/
 
 ## Authors
 
-Team 10: **Eirini Doulaveri** and **Georgios Karavangelis**.
+- **Eirini Doulaveri** ([@iribiriee](https://github.com/iribiriee))
+- **Giorgos Karavangelis**
